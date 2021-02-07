@@ -1,0 +1,16 @@
+包含文件：
+
+D:\OpenCVStudy\opencv\build\include\opencv2
+D:\OpenCVStudy\opencv\build\include
+
+
+库文件：
+
+D:\OpenCVStudy\opencv\build\x64\vc15\lib
+
+
+输入：
+
+opencv_world451d.lib
+
+D:/OpenCVStudy/CV Lesson03/CV Lesson03/lena_c.jpg
